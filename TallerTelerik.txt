@@ -1,0 +1,32 @@
+** Taller: Telerik & KendoUI
+** Por Ian Ondoy Quirós (B95671) y Diego Rodríguez Fallas (B96634).
+
+Requisitos para el taller:
+1. Tener instalado Visual Studio y Visual Studio Code.
+2. Instalar descargar development kit de Telerik: https://www.telerik.com/aspnet-core-ui
+	-- Una vez en la página, dar click al botón "Try Now".
+	-- Crearse un usuario, siguiendo los pasos que describe el formulario. Usar correo de la universidad.
+	-- Si todo se lleno correctamente, al dar click en "Submit" se inicia la descarga.
+	-- Cuando la descarga finalice, ejecutar el archivo y seguir los pasos del Wizard de instalación.
+	-- Llegará un correo de activación, por favor activarlo.
+	-- Al abrirlo, escoger todas las opciones menos: Tests Studio, JustMock y UI for Xamarin. Click en Next.
+	-- En la siguiente ventana, en "Install Demos" dejar las casillas que están y agregar la de "Reporting".
+	-- Dejar el resto de opciones igual y aceptar condiciones en la casilla de la parte de abajo. Dar "Next".
+	-- Llenar los datos con la cuenta recién abierta y activada. Click en el botón y esperar la instalación.
+	-- Cuando termine dar click en "Finish" y listo, Kit de Telerik en su máquina.
+3. En Visual Studio descargar las extensiones de Telerik oficiales, así como en Visual Studio Code.
+
+Cronograma
+1. Introducción.
+2. Características Telerik, usos, ventajas. Reportes, entre otros.
+3. Laboratorio:
+	-- Guiado: Configurar en Visual Studio Code el shell project de Telerik y Kendo.
+		   Con el código, analizarlo y explicarlo.
+		   Añadir campo para agregar nombre, fecha de reservación y Combo Box de aerolíneas.
+		   Aplicación de reservación con lo elaborado en los puntos anteriores.
+	-- No Guiado: Seguir el vídeo de configuarción con Visual Studio y levantar la App. 
+		      Configurar contact para que lance un mensaje de confirmación.
+4. Cierre y conclusiones.
+
+**Nota: Ante cualquier duda comunicarse con los encargados, para ayudarlos en la configuración y puedan disfrutar del taller con nosotros. 
+
